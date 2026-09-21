@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Ian
+# Hi, I'm Ian
 
 Statistics student @ BYU
 
